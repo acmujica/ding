@@ -24,25 +24,22 @@ Because Siri won't set a timer for me on macOS.
 ## Usage
 
 #### 30 second timer
-    ```
+
     ding 30
-    ```
+
 
 #### 25 minute timer running in the background
-    ```
+
     ding -m 25 &
-    ```
+
 
 #### 42 Hour timer
-    ```
+
     ding -h 42
-    ```
 
 #### Slightly louder and longer alarm
 
-    ```
     ding -l 10
-    ```
 
 Audio Credits:
 
