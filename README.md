@@ -2,6 +2,25 @@
 
 Because Siri won't set a timer for me on macOS.
 
+## Prerequisite for Linux and FreeBSD
+
+### Linux
+
+libasound2-dev is required. On Ubuntu or Debian, run this command:
+
+```sh
+apt install libasound2-dev
+```
+
+In most cases this command must be run by root user or through `sudo` command.
+
+### FreeBSD
+
+OpenAL is required. Install openal-soft:
+
+```sh
+pkg install openal-soft
+```
 
 ## Installation
 
