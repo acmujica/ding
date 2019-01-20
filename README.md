@@ -2,7 +2,10 @@
 
 Because Siri won't set a timer for me on macOS.
 
-1. Install go via brew or check https://golang.org/ for more methods.
+
+## Installation
+
+1. Install Go via brew or check https://golang.org/ for other methods
     ```sh
     brew install go
     ```
@@ -15,7 +18,7 @@ Because Siri won't set a timer for me on macOS.
     git clone https://github.com/acmujica/ding.git
     ```
 
-3. If you cloned you will need to install the binary.
+3. If you cloned you will need to install the binary
 
     ```
     make install
@@ -41,7 +44,8 @@ Because Siri won't set a timer for me on macOS.
 
     ding -l 10
 
-Audio Credits:
+
+## Audio Credits
 
 "Hand Bells, E, Single.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
 
